@@ -76,6 +76,7 @@ We welcome contributions from the community! If you would like to contribute, pl
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
+7. Read [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 Please ensure your code adheres to our coding standards and includes appropriate tests.
 
