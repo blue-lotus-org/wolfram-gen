@@ -12,9 +12,6 @@ Goal is to generate Wolfram Alpha queries from natural language questions.
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces.
 - **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
-
-### Other Dependencies
-- **Firebase**: A platform for building web and mobile applications.
 - **Recharts**: A composable charting library built on React components.
 - **React Hook Form**: A library for managing forms in React.
 - **Zod**: A TypeScript-first schema declaration and validation library.
